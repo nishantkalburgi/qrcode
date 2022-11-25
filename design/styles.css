@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-color: gainsboro;
+}
+
+.topmain{
+    margin: 1rem;
+    padding: 50px 20px;
+}
+
+.mainimg{
+    padding: 30px 20px;
+    width: 60%;
+}
+.mainh{
+    width: 60%;
+    margin: auto;
+}
+
+.mainp{
+    width: 60%;
+    margin: auto;
+    padding: 20px 10px;
+    font-size: 1.3rem;
+}
+
+.topmain{
+    background-color: white;
+    margin: 38%;
+    width: 20rem;
+    padding: 10px;
+    border-radius: 90px;
+}
+
+.middlemain{
+    background-color: white;
+    border-radius: 70px;
+}
+
+.mainimg:hover{
+    color: #1d1ce5;
+}
